@@ -1,0 +1,342 @@
+{
+    "100": {
+        "Binary Search": {
+            "Uniform": 841,
+            "Skewed": 1334,
+            "NonUniform": 1008
+        },
+        "Interpolation Search": {
+            "Uniform": 790,
+            "Skewed": 4843,
+            "NonUniform": 3708
+        },
+        "Exponential Search": {
+            "Uniform": 1786,
+            "Skewed": 2066,
+            "NonUniform": 1836
+        }
+    },
+    "200": {
+        "Binary Search": {
+            "Uniform": 1536,
+            "Skewed": 1632,
+            "NonUniform": 1515
+        },
+        "Interpolation Search": {
+            "Uniform": 779,
+            "Skewed": 5101,
+            "NonUniform": 5449
+        },
+        "Exponential Search": {
+            "Uniform": 2235,
+            "Skewed": 2997,
+            "NonUniform": 2267
+        }
+    },
+    "300": {
+        "Binary Search": {
+            "Uniform": 1877,
+            "Skewed": 1467,
+            "NonUniform": 1583
+        },
+        "Interpolation Search": {
+            "Uniform": 823,
+            "Skewed": 5821,
+            "NonUniform": 5010
+        },
+        "Exponential Search": {
+            "Uniform": 2376,
+            "Skewed": 2091,
+            "NonUniform": 2212
+        }
+    },
+    "400": {
+        "Binary Search": {
+            "Uniform": 1775,
+            "Skewed": 1941,
+            "NonUniform": 1707
+        },
+        "Interpolation Search": {
+            "Uniform": 804,
+            "Skewed": 5845,
+            "NonUniform": 5113
+        },
+        "Exponential Search": {
+            "Uniform": 2562,
+            "Skewed": 1873,
+            "NonUniform": 2211
+        }
+    },
+    "500": {
+        "Binary Search": {
+            "Uniform": 1885,
+            "Skewed": 1889,
+            "NonUniform": 1438
+        },
+        "Interpolation Search": {
+            "Uniform": 789,
+            "Skewed": 7867,
+            "NonUniform": 4330
+        },
+        "Exponential Search": {
+            "Uniform": 2662,
+            "Skewed": 2922,
+            "NonUniform": 2573
+        }
+    },
+    "600": {
+        "Binary Search": {
+            "Uniform": 1936,
+            "Skewed": 1911,
+            "NonUniform": 2045
+        },
+        "Interpolation Search": {
+            "Uniform": 840,
+            "Skewed": 14839,
+            "NonUniform": 6721
+        },
+        "Exponential Search": {
+            "Uniform": 2669,
+            "Skewed": 2468,
+            "NonUniform": 2648
+        }
+    },
+    "700": {
+        "Binary Search": {
+            "Uniform": 2091,
+            "Skewed": 1971,
+            "NonUniform": 2031
+        },
+        "Interpolation Search": {
+            "Uniform": 880,
+            "Skewed": 15929,
+            "NonUniform": 6731
+        },
+        "Exponential Search": {
+            "Uniform": 2512,
+            "Skewed": 2687,
+            "NonUniform": 2094
+        }
+    },
+    "800": {
+        "Binary Search": {
+            "Uniform": 1953,
+            "Skewed": 2092,
+            "NonUniform": 2172
+        },
+        "Interpolation Search": {
+            "Uniform": 865,
+            "Skewed": 17911,
+            "NonUniform": 6792
+        },
+        "Exponential Search": {
+            "Uniform": 3039,
+            "Skewed": 2687,
+            "NonUniform": 2912
+        }
+    },
+    "900": {
+        "Binary Search": {
+            "Uniform": 1868,
+            "Skewed": 1401,
+            "NonUniform": 1962
+        },
+        "Interpolation Search": {
+            "Uniform": 790,
+            "Skewed": 18458,
+            "NonUniform": 7017
+        },
+        "Exponential Search": {
+            "Uniform": 3138,
+            "Skewed": 3135,
+            "NonUniform": 2992
+        }
+    },
+    "1000": {
+        "Binary Search": {
+            "Uniform": 1897,
+            "Skewed": 2099,
+            "NonUniform": 2175
+        },
+        "Interpolation Search": {
+            "Uniform": 825,
+            "Skewed": 19430,
+            "NonUniform": 6215
+        },
+        "Exponential Search": {
+            "Uniform": 2875,
+            "Skewed": 2494,
+            "NonUniform": 2638
+        }
+    },
+    "1100": {
+        "Binary Search": {
+            "Uniform": 1957,
+            "Skewed": 2182,
+            "NonUniform": 2131
+        },
+        "Interpolation Search": {
+            "Uniform": 860,
+            "Skewed": 20651,
+            "NonUniform": 7036
+        },
+        "Exponential Search": {
+            "Uniform": 3491,
+            "Skewed": 3036,
+            "NonUniform": 3127
+        }
+    },
+    "1200": {
+        "Binary Search": {
+            "Uniform": 1933,
+            "Skewed": 2283,
+            "NonUniform": 2290
+        },
+        "Interpolation Search": {
+            "Uniform": 808,
+            "Skewed": 21239,
+            "NonUniform": 8264
+        },
+        "Exponential Search": {
+            "Uniform": 3590,
+            "Skewed": 3422,
+            "NonUniform": 3339
+        }
+    },
+    "1300": {
+        "Binary Search": {
+            "Uniform": 1907,
+            "Skewed": 2740,
+            "NonUniform": 2081
+        },
+        "Interpolation Search": {
+            "Uniform": 916,
+            "Skewed": 20652,
+            "NonUniform": 6839
+        },
+        "Exponential Search": {
+            "Uniform": 3323,
+            "Skewed": 3279,
+            "NonUniform": 2212
+        }
+    },
+    "1400": {
+        "Binary Search": {
+            "Uniform": 1821,
+            "Skewed": 2282,
+            "NonUniform": 2001
+        },
+        "Interpolation Search": {
+            "Uniform": 767,
+            "Skewed": 21165,
+            "NonUniform": 7719
+        },
+        "Exponential Search": {
+            "Uniform": 3333,
+            "Skewed": 2337,
+            "NonUniform": 2962
+        }
+    },
+    "1500": {
+        "Binary Search": {
+            "Uniform": 2336,
+            "Skewed": 2208,
+            "NonUniform": 2136
+        },
+        "Interpolation Search": {
+            "Uniform": 843,
+            "Skewed": 20397,
+            "NonUniform": 6613
+        },
+        "Exponential Search": {
+            "Uniform": 2222,
+            "Skewed": 3363,
+            "NonUniform": 2942
+        }
+    },
+    "1600": {
+        "Binary Search": {
+            "Uniform": 2377,
+            "Skewed": 2332,
+            "NonUniform": 2347
+        },
+        "Interpolation Search": {
+            "Uniform": 892,
+            "Skewed": 21359,
+            "NonUniform": 8367
+        },
+        "Exponential Search": {
+            "Uniform": 2707,
+            "Skewed": 2852,
+            "NonUniform": 2996
+        }
+    },
+    "1700": {
+        "Binary Search": {
+            "Uniform": 2304,
+            "Skewed": 2154,
+            "NonUniform": 2348
+        },
+        "Interpolation Search": {
+            "Uniform": 790,
+            "Skewed": 19112,
+            "NonUniform": 9554
+        },
+        "Exponential Search": {
+            "Uniform": 3338,
+            "Skewed": 3308,
+            "NonUniform": 3238
+        }
+    },
+    "1800": {
+        "Binary Search": {
+            "Uniform": 2232,
+            "Skewed": 2091,
+            "NonUniform": 1826
+        },
+        "Interpolation Search": {
+            "Uniform": 800,
+            "Skewed": 18121,
+            "NonUniform": 8666
+        },
+        "Exponential Search": {
+            "Uniform": 3278,
+            "Skewed": 3618,
+            "NonUniform": 3356
+        }
+    },
+    "1900": {
+        "Binary Search": {
+            "Uniform": 1988,
+            "Skewed": 2262,
+            "NonUniform": 1957
+        },
+        "Interpolation Search": {
+            "Uniform": 867,
+            "Skewed": 18523,
+            "NonUniform": 9618
+        },
+        "Exponential Search": {
+            "Uniform": 3136,
+            "Skewed": 3339,
+            "NonUniform": 2642
+        }
+    },
+    "2000": {
+        "Binary Search": {
+            "Uniform": 2038,
+            "Skewed": 2393,
+            "NonUniform": 1906
+        },
+        "Interpolation Search": {
+            "Uniform": 833,
+            "Skewed": 18294,
+            "NonUniform": 8759
+        },
+        "Exponential Search": {
+            "Uniform": 3510,
+            "Skewed": 3343,
+            "NonUniform": 3275
+        }
+    }
+}
